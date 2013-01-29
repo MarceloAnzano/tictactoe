@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1357923604 source:c:\users\ryan\desktop\tictactoe\player.cpp
+	"player.h"
+
+1357924722 c:\users\ryan\desktop\tictactoe\player.h
+	<string>
+
+1189864956 source:c:\users\ryan\desktop\tictactoe\main.cpp
+	<iostream>
+
+1358534868 source:c:\users\ryan\desktop\lesson\data struc\tictactoe\main.cpp
+	<iostream>
+	"player.h"
+	"Board.h"
+	"game.h"
+
+1358534292 c:\users\ryan\desktop\lesson\data struc\tictactoe\player.h
+	<string>
+
+1358548468 c:\users\ryan\desktop\lesson\data struc\tictactoe\board.h
+	<string>
+
+1358534308 source:c:\users\ryan\desktop\lesson\data struc\tictactoe\player.cpp
+	"player.h"
+	<string>
+	<iostream>
+
+1358532700 c:\users\ryan\desktop\lesson\data struc\tictactoe\game.h
+	"Board.h"
+	"player.h"
+
+1358534678 source:c:\users\ryan\desktop\lesson\data struc\tictactoe\board.cpp
+	"Board.h"
+	<iostream>
+	<string>
+
+1358549353 source:c:\users\ryan\desktop\lesson\data struc\tictactoe\game.cpp
+	"game.h"
+	<iostream>
+	"Board.h"
+	<string>
+
+1358807989 source:c:\users\ryan\documents\claire\lesson\data struc\tictactoe\game.cpp
+	"game.h"
+	<iostream>
+	"Board.h"
+	<string>
+	<cstdlib>
+
+1358550141 c:\users\ryan\documents\claire\lesson\data struc\tictactoe\game.h
+	"Board.h"
+	"player.h"
+
+1358548468 c:\users\ryan\documents\claire\lesson\data struc\tictactoe\board.h
+	<string>
+
+1358551126 c:\users\ryan\documents\claire\lesson\data struc\tictactoe\player.h
+	<string>
+
+1358534868 source:c:\users\ryan\documents\claire\lesson\data struc\tictactoe\main.cpp
+	<iostream>
+	"player.h"
+	"Board.h"
+	"game.h"
+
+1358794234 source:c:\users\ryan\documents\claire\lesson\data struc\tictactoe\player.cpp
+	"player.h"
+	<string>
+	<iostream>
+
+1358553845 source:c:\users\ryan\documents\claire\lesson\data struc\tictactoe\board.cpp
+	"Board.h"
+	<iostream>
+	<string>
+
